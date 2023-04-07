@@ -1,0 +1,23 @@
+*{
+    list-style: none;
+}
+body{
+    background-color: rgb(127, 210, 255);
+}
+#container{
+    text-align: center;
+    margin: 0 auto;
+}
+#container h1{
+    color: white;
+}
+.todo-app input{
+    padding: 8px;
+}
+.todo-app button{
+    padding: 8px;
+}
+#container ul{
+    width: 25%;
+    margin: 0 auto;
+}
